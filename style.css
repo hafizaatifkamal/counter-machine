@@ -28,20 +28,20 @@ button {
   color: inherit;
   height: 4rem;
   width: 4rem;
-  /* border-radius: 50%; */
+  border-radius: 50%;
   cursor: pointer;
   outline: none;
 }
 
-.minus, .plus {
+/* .minus, .plus {
   border-radius: 50%;
-}
+} */
 
 .reset {
   height: 4rem;
   width: 8rem;
   font-size: 2rem;
-  border-radius: 5%;
+/*   border-radius: 5%; */
 }
 
 button:hover {
