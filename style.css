@@ -38,10 +38,11 @@ button {
 } */
 
 .reset {
+  font-family: Cormorant Bold;
   height: 4rem;
   width: 8rem;
   font-size: 2rem;
-/*   border-radius: 5%; */
+  border-radius: 20px;
 }
 
 button:hover {
